@@ -1,6 +1,6 @@
 # Sky AutoMusic - Privacy Policy
 
-Last updated: October 18, 2026
+Last updated: October 20, 2026
 
 ## Who we are
 
@@ -47,6 +47,13 @@ actions. A report is tied to a random installation ID. We don't add the contents
 your files to a report. To tell how often the app crashes, Crashlytics also counts app launches: each launch sends a
 short record with its time, the same installation ID, the device model, Android version and app version. Crash
 reports and these records are sent even with statistics turned off: without them we can't fix crashes.
+
+## Logs you send
+
+The app keeps a log of what it does on your device: its start, the screens, the accessibility service, the overlay,
+playback, import and export, errors. The log has no names of your melodies or files. It never leaves your device by
+itself: it is sent only when you tap "Send logs" and choose where to send it, with the app version, the device model,
+the Android version, the app's permissions and the number of melodies and playlists.
 
 ## Who gets the data
 
